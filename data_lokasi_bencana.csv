@@ -1,0 +1,10 @@
+id,nama_lokasi,stage_prioritas,provinsi,lat,lon,biaya_basis_idr
+0,Jakarta (Pusat Logistik),0,DKI,-6.2088,106.8456,0
+1,Takengon (Aceh Tengah),1,Aceh,4.6291,96.8407,375000000
+2,Bener Meriah,1,Aceh,4.7333,96.8500,108000000
+3,Kec. Kuranji (Padang),2,Sumbar,-0.9231,100.4039,24750000
+4,Salareh Aia (Agam),2,Sumbar,-0.2230,100.1230,200000000
+5,Mentawai,2,Sumbar,-1.4320,99.1230,150000000
+6,Langkat (Tanjung Selamat),3,Sumut,3.7540,98.2340,200000000
+7,Tapanuli Utara,3,Sumut,2.0120,99.0120,29816080
+8,Medan (Hub Akhir),4,Sumut,3.5952,98.6722,50000000
