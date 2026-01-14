@@ -1,0 +1,6 @@
+streamlit==1.31.0
+pandas==2.2.3
+networkx==3.4.2
+matplotlib==3.10.0
+numpy==1.26.4
+svgwrite==1.4.3
